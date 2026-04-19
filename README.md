@@ -30,12 +30,12 @@ The project works on sales and profit data of superstore or retail company.
 
 #tools:
 
-   -jupyter or colab notbook
+     -jupyter or colab notbook
  
-   -python
+     -python
  
-   -pandas
+     -pandas
  
-   -matplotlib
+     -matplotlib
   
   

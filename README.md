@@ -6,36 +6,36 @@ The project works on sales and profit data of superstore or retail company.
 
     -exploring dataset
   
-  -Data cleaning
+    -Data cleaning
   
-  -feature engineering
+    -feature engineering
   
-  -Groupby and aggregation
+    -Groupby and aggregation
   
-  -merging and spliting dataset
+    -merging and spliting dataset
     
-  -pivot table analysis
+    -pivot table analysis
   
     -Data visiualization
   
 #Insights:
 
-  -the most profitable category
+    -the most profitable category
   
-  -the least profitable region
+    -the least profitable region
   
-  -sales and profit trends over time
+    -sales and profit trends over time
   
-  -relation between sales and profit
+    -relation between sales and profit
 
 #tools:
 
- -jupyter or colab notbook
+   -jupyter or colab notbook
  
- -python
+   -python
  
- -pandas
+   -pandas
  
- -matplotlib
+   -matplotlib
   
   

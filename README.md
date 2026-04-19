@@ -2,7 +2,7 @@
 
 The project works on sales and profit data of superstore or retail company.
 
-main tasks performed are:-
+#main tasks performed are:-
 
   -exploring dataset
   
@@ -18,7 +18,7 @@ main tasks performed are:-
   
   -Data visiualization
   
-Insights:
+#Insights:
 
   -the most profitable category
   
@@ -28,7 +28,7 @@ Insights:
   
   -relation between sales and profit
 
-tools:
+#tools:
 
  -jupyter or colab notbook
  

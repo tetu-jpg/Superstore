@@ -1,6 +1,6 @@
 # Sales data analysis project
 
-The project works on sales and profit data of superstore or retail company.
+The project analyzes sales and profit data of superstore or retail company.
 
 #main tasks performed are:-
 
@@ -8,7 +8,7 @@ The project works on sales and profit data of superstore or retail company.
   
     -Data cleaning(no missing value)
   
-    -feature engineering
+    -feature engineering(to create new useful column)
   
     -Groupby and aggregation
   
@@ -20,22 +20,24 @@ The project works on sales and profit data of superstore or retail company.
   
 #Insights:
 
-    -the most profitable category is Technology
+    -the most profitable category is Technology.
   
-    -the least profitable region is centeral region 
+    -the least profitable region is centeral region.
   
-    -sales and profit trends over time
+    -sales and profit shows clear  trends over time.
   
-    -relation between sales and profit
+    -The moderate relationship between sales and profit.
 
 #tools:
 
-     -jupyter or colab notbook
+     -jupyter notebook /Google colab
  
      -python
  
      -pandas
  
      -matplotlib
+
+This project demonstrates how data analysis techniques can be used to understand business performance, identify trends, and support decision-making in a retail environment.
   
   

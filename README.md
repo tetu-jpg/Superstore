@@ -4,7 +4,7 @@ The project works on sales and profit data of superstore or retail company.
 
 #main tasks performed are:-
 
-  -exploring dataset
+    -exploring dataset
   
   -Data cleaning
   
@@ -13,10 +13,10 @@ The project works on sales and profit data of superstore or retail company.
   -Groupby and aggregation
   
   -merging and spliting dataset
-  
+    
   -pivot table analysis
   
-  -Data visiualization
+    -Data visiualization
   
 #Insights:
 

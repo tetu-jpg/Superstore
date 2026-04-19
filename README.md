@@ -6,7 +6,7 @@ The project works on sales and profit data of superstore or retail company.
 
     -exploring dataset
   
-    -Data cleaning
+    -Data cleaning(no missing value)
   
     -feature engineering
   
@@ -20,9 +20,9 @@ The project works on sales and profit data of superstore or retail company.
   
 #Insights:
 
-    -the most profitable category
+    -the most profitable category is Technology
   
-    -the least profitable region
+    -the least profitable region is centeral region 
   
     -sales and profit trends over time
   
